@@ -1,0 +1,3 @@
+redeem-message: "&cYou reedemed a voucher"
+commands:
+  - "give <player> diamond 64"

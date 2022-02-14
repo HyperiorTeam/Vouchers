@@ -1,0 +1,8 @@
+name: Vouchers
+version: 1.0
+author: Stexjy
+main: net.hyperior.vouchers.VouchersMain
+commands:
+  vouchers:
+permissions:
+  vouchers.give:
